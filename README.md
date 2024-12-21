@@ -21,7 +21,7 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 
 | Category                | Solved / Total |
 |-------------------------|---------------:|
-| Introductory Problems   | 1 / 19         |
+| Introductory Problems   | 7 / 19         |
 | Sorting and Searching   | 0 / 35         |
 | Dynamic Programming     | 0 / 19         |
 | Graph Algorithms        | 0 / 36         |
@@ -32,6 +32,6 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 | Geometry                | 0 / 7          |
 | Advanced Techniques     | 0 / 24         |
 | Additional Problems     | 0 / 77         |
-| **Total**               | 1 / 300        |
+| **Total**               | 7 / 300        |
 
 *(This table will be updated as I solve more problems.)*

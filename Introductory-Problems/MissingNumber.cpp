@@ -1,34 +1,17 @@
 /*
- * Problem: Missing Number (CSES - https://cses.fi/problemset/task/1083)
- * ----------------------------------------------------------------------
- * Description:
- * You are given all the integers from 1 to n, except for one missing integer.
- * Your task is to determine which integer is missing.
- *
- * Input:
- * - The first line contains an integer n (2 <= n <= 2*10^5).
- * - The second line contains n-1 distinct integers in the range [1, n].
- *
- * Output:
- * Print the single missing integer.
- *
- * Example:
- * Input:
- * 5
- * 2 3 1 5
- * Output:
- * 4
- *
- * Idea:
- * A straightforward and efficient approach:
- * - The sum of the integers from 1 to n is n*(n+1)/2.
- * - By summing all the given (n-1) integers and subtracting from the total sum,
- *   we directly find the missing number.
- *
- * Complexity:
- * O(n) time to read the input and sum the values, which is acceptable for n up to 2*10^5.
- * Memory is O(1) aside from input storage (if read one-by-one).
- *
+   CSES Problem Set
+   Link: https://cses.fi/problemset/task/1083
+
+   Problem: Missing Number
+   Description:
+   You are given all integers from 1 to n except for one missing integer.
+   The task is to find that single missing integer.
+
+   Time Complexity:
+   O(n). Reading and summing the input (n-1) integers takes linear time.
+
+   Space Complexity:
+   O(1). Only a few variables are used to store partial sums and the result.
  */
 
 

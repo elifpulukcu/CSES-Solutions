@@ -1,6 +1,4 @@
-WeirdAlgorithm
-*.dSYM
+*.dSYM/
+build/
 *.o
 *.out
-
-MissingNumber
