@@ -33,6 +33,5 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 | Advanced Techniques     | 0 / 24         |
 | Additional Problems     | 0 / 77         |
 | **Total**               | 23 / 300       |
->>>>>>> 09a6bdb (Add CSES solutions for DistinctNumbers, Apartments, FerrisWheel, ConcertTickets, RestaurantCustomers, and MovieFestival)
 
 *(This table will be updated as I solve more problems.)*
