@@ -23,7 +23,7 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 |-------------------------|---------------:|
 | Introductory Problems   | 17 / 19        |
 | Sorting and Searching   | 6 / 35         |
-| Dynamic Programming     | 0 / 19         |
+| Dynamic Programming     | 5 / 19         |
 | Graph Algorithms        | 0 / 36         |
 | Range Queries           | 0 / 19         |
 | Tree Algorithms         | 0 / 16         |
@@ -32,6 +32,6 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 | Geometry                | 0 / 7          |
 | Advanced Techniques     | 0 / 24         |
 | Additional Problems     | 0 / 77         |
-| **Total**               | 23 / 300       |
+| **Total**               | 28 / 300       |
 
 *(This table will be updated as I solve more problems.)*
