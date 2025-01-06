@@ -24,7 +24,7 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 | Introductory Problems   | 17 / 19        |
 | Sorting and Searching   | 6 / 35         |
 | Dynamic Programming     | 5 / 19         |
-| Graph Algorithms        | 0 / 36         |
+| Graph Algorithms        | 3 / 36         |
 | Range Queries           | 0 / 19         |
 | Tree Algorithms         | 0 / 16         |
 | Mathematics             | 0 / 31         |
