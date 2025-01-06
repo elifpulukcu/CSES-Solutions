@@ -32,6 +32,6 @@ I am open to discussions, suggestions, and constructive feedback on the solution
 | Geometry                | 0 / 7          |
 | Advanced Techniques     | 0 / 24         |
 | Additional Problems     | 0 / 77         |
-| **Total**               | 28 / 300       |
+| **Total**               | 31 / 300       |
 
 *(This table will be updated as I solve more problems.)*
